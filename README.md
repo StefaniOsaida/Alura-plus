@@ -1,2 +1,2 @@
-# Alura-plus
+# aluraplus
 Alura plus
